@@ -1,6 +1,6 @@
 # GitHub Profile of Klimasevskiy
 
-![Cover Image]((https://i.ibb.co/dgLBgd6/Frame-13.png))
+![Cover Image](https://github.com/klimasevskiy/klimasevskiy/blob/main/assets/cover.png)
 ## Hello, I'm Max ✌️
 
 🎨 3D artist, Blender Python plugin developer and Programming Science student 🐍
