@@ -1,16 +1,33 @@
-### Hi there 👋
+# GitHub Profile of Klimasevskiy
 
-<!--
-**klimasevskiy/klimasevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cover Image](link-to-your-cover-image.jpg) <!-- Insert a link to your cover image -->
 
-Here are some ideas to get you started:
+## Hello, I'm Max ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 3D artist, Blender Python plugin developer and Programming Science student 🐍
+
+🔌 Here you will find my student works and plugins for Blender. My mission is to improve the 3D world and simplify the process of creating immersive visualizations.
+
+## 🛠️My Tech Stack
+
+- Blender: My main design program.
+- Python: the main programming language for creating plugins.
+- C++ and C#: I study at the university.
+- Web technologies (HTML, CSS, JavaScript): creation of sites for personal projects.
+- Git: version control for shared projects.
+
+## Projects
+
+🔧 Here are a few of my works. Explore the repositories below to see what I've created.
+
+- [Blender Telegram Render Notifier](https://github.com/klimasevskiy/Render-Completed-Telegram-Notifier)
+
+## Connect with Me
+
+📫 I'm open to collaborations and discussions. Feel free to reach out if you have ideas or proposals for joint projects.
+
+- [Telegram](https://t.me/klimasevskiy)
+- [Instagram](https://www.instagram.com/klimasevkiy_3d/)
+- [Behance Portfolio](https://www.behance.net/klimasevskiy)
+
+## Let's make the 3D world better together! 🚀
