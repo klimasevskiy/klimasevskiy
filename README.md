@@ -9,7 +9,7 @@
 
 ## 🛠️My Tech Stack
 
-**· Python, C++, C#, Web technologies (HTML, CSS, JavaScript), Git, PineSript
+**Python, C++, C#, Web technologies (HTML, CSS, JavaScript), Git, PineSript**
 
 ## Projects
 
