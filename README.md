@@ -9,11 +9,11 @@
 
 ## 🛠️My Tech Stack
 
-**· Blender:** My main design program.
-**· Python:** the main programming language for creating plugins.
-**· C++ and C#:** I study at the university.
-**· Web technologies (HTML, CSS, JavaScript):** creation of sites for personal projects.
-**· Git:** version control for shared projects.
+**· Blender:** My main design program.\n
+**· Python:** the main programming language for creating plugins.\n
+**· C++ and C#:** I study at the university.\n
+**· Web technologies (HTML, CSS, JavaScript):** creation of sites for personal projects.\n
+**· Git:** version control for shared projects.\n
 
 ## Projects
 
