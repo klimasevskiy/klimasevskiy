@@ -1,6 +1,6 @@
 # GitHub Profile of Klimasevskiy
 
-![Cover Image](https://github.com/klimasevskiy/klimasevskiy/blob/main/assets/cover_1.png)
+![Cover Image](https://github.com/klimasevskiy/klimasevskiy/blob/main/assets/cover.png)
 ## Hello, I'm Maks Klimashevskiy (klimasevskiy) ✌️
 ### Bachelor of Computer Science, Master's degree in progress
 
