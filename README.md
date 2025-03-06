@@ -1,21 +1,17 @@
 # GitHub Profile of Klimasevskiy
 
-![Cover Image](https://github.com/klimasevskiy/klimasevskiy/blob/main/assets/cover.png)
-## Hello, I'm Max ✌️
+![Cover Image](https://github.com/klimasevskiy/klimasevskiy/blob/main/assets/cover_1.png)
+## Hello, I'm Maks Klimashevskiy (klimasevskiy) ✌️
+### Bachelor of Computer Science, Master's degree in progress
 
-**🎨 3D artist, Blender Python plugin developer and Programming Science student 🐍**
+**I write Python programs, TradingView indicators and much more 😉**
 
-*🔌 Here you will find my student works and plugins for Blender. My mission is to improve the 3D world and simplify the process of creating immersive visualizations.*
+*🔌 Here you will find my PUBLIC works.*
 
 ## 🛠️My Tech Stack
 
-**Python, C++, C#, Web technologies (HTML, CSS, JavaScript), Git, PineSript**
-
-## Projects
-
-**🔧 Here are a few of my works. Explore the repositories below to see what I've created.**
-
-- [Blender Telegram Render Notifier](https://github.com/klimasevskiy/Render-Completed-Telegram-Notifier)
+**Python, C++, C#, Web technologies (HTML, CSS, JavaScript), PineSript**
+If I don't know something, give me a day and I'll know it.
 
 ## Connect with Me
 
@@ -23,6 +19,5 @@
 
 - [Telegram](https://t.me/klimasevskiy)
 - [Instagram](https://www.instagram.com/klimasevkiy_3d/)
-- [Behance Portfolio](https://www.behance.net/klimasevskiy)
 
-## Let's make the 3D world better together! 🚀
+## Let's make cool projects together! 🚀
