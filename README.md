@@ -27,4 +27,4 @@
 📫 I'm open to collaborations and discussions. Feel free to reach out if you have ideas or proposals for joint projects.
 
 - [Telegram](https://t.me/klimasevskiy)
-- [Instagram](https://www.instagram.com/klimasevkiy_3d/)
+- [Instagram](https://www.instagram.com/klimasevskiy/)
