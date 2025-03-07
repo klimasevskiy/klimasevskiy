@@ -27,7 +27,7 @@
 
 <h2 align="center"> Blender Addon </h2>
 
-<a href="https://github.com/klimasevskiy/Render-Completed-Telegram-Notifier"><img src="assets\Render_completed_notifier.png"><p align="center">Blender Telegram Render Notifier</h3></a>
+<a href="https://github.com/klimasevskiy/Render-Completed-Telegram-Notifier"><img src="assets\Render_completed_notifier.png"><p align="center">Blender Telegram Render Notifier</a>
 
 
 # Connect with Me
