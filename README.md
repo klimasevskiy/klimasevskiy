@@ -1,6 +1,6 @@
 # GitHub Profile of Klimasevskiy
 
-![Cover Image](https://github.com/klimasevskiy/klimasevskiy/blob/main/assets/cover.png)
+![Cover Image](assets\cover.png)
 ## Hello, I'm Maks Klimashevskiy (klimasevskiy) ✌️
 ### Bachelor of Computer Science, Master's degree in progress
 
@@ -8,18 +8,26 @@
 
 *🔌 Here you will find my PUBLIC works.*
 
-# 🛠️ My Tech Stack
+<h1 align="center">🛠️ My Tech Stack</h1>
 
-**Python, Web technologies (HTML, CSS, JavaScript), PineSript**
+**Python**
+<br>**Web technologies (HTML, CSS, JavaScript)**
+<br>**PineSript**
+<br>**And other**
 
-#  🚀 Some of my Projects
+<h1 align="center">🚀 Some of my projects</h1> 
 
-## Tradingview Indicators
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 30%;"><a href="https://github.com/klimasevskiy/PineScript-ICT-macros"><img src="assets\ICT_Macros_cover.png"><p align="center">ICT Macros</h3></a></div>
-  <div style="width: 30%;"><a href="https://github.com/klimasevskiy/PineScript-Forex-sessions"><img src="assets\Forex_sessions_cover.png"><p align="center">Forex Sessions</h3></a></div>
-  <div style="width: 30%;"><a href="https://github.com/klimasevskiy/PineScript-Correct-Fractal-Swings"><img src="assets\Correct Fractal Swings_cover.png"><p align="center">Correct Fractal Swings</h3></a></div>
-</div>
+<h2 align="center">Tradingview Indicators</h2>
+
+
+|  |  | |  
+| :------: | :------: | :------: |
+| <img src="assets\ICT_Macros_cover.png">              | <img src="assets\Forex_sessions_cover.png"> | <img src="assets\Correct Fractal Swings_cover.png"> |
+| [ICT Macros](https://github.com/klimasevskiy/PineScript-ICT-macros)        |   [Forex Sessions](https://github.com/klimasevskiy/PineScript-Forex-sessions)   | [Correct Fractal Swings](https://github.com/klimasevskiy/PineScript-Correct-Fractal-Swings)  |
+
+<h2 align="center"> Blender Addon </h2>
+
+<a href="https://github.com/klimasevskiy/Render-Completed-Telegram-Notifier"><img src="assets\Render_completed_notifier.png"><p align="center">Blender Telegram Render Notifier</h3></a>
 
 
 # Connect with Me
