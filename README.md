@@ -12,7 +12,7 @@
 
 **Python**
 <br>**Web technologies (HTML, CSS, JavaScript)**
-<br>**PineSript**
+<br>**PineScript**
 <br>**And other**
 
 <h1 align="center">🚀 Some of my projects</h1> 
