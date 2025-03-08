@@ -17,7 +17,7 @@
 
 <h1 align="center">🚀 Some of my projects</h1> 
 
-<h2 align="center">Tradingview Indicators</h2>
+<h2 align="center">TradingView Indicators</h2>
 
 
 |  |  | |  
